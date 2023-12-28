@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ducati/static/css/main.5e72a152.css",
+    "main.js": "/Ducati/static/js/main.8098399f.js",
+    "index.html": "/Ducati/index.html",
+    "main.5e72a152.css.map": "/Ducati/static/css/main.5e72a152.css.map",
+    "main.8098399f.js.map": "/Ducati/static/js/main.8098399f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e72a152.css",
+    "static/js/main.8098399f.js"
+  ]
+}
